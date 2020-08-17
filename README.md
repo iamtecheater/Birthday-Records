@@ -2,4 +2,4 @@
 
 A simple React project for Birthday Records
 
-#Dowmload na dinstall with npm install
+# Dowmload na dinstall with npm install
